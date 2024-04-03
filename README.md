@@ -36,7 +36,7 @@ Before diving into the SkyServe CLI, ensure you have the following prerequisites
 To install SkyServe CLI, run the following command in your terminal:
 
 ```sh
-curl -sSL https://skyserve.io/install | bash
+pip install -U skypilot
 ```
 
 This command downloads and installs the latest version of SkyServe CLI, adding it to your system's PATH for easy access.
