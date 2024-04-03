@@ -1,7 +1,7 @@
 # sky-serve-cheatsheet
 A simple Cheat Sheet for Sky Serve!
 
-```markdown
+```
 | Command                                         | Description                                               |
 |-------------------------------------------------|-----------------------------------------------------------|
 | `sky serve status <service-name> [--endpoint]`  | Show detailed info about the service.                     |
