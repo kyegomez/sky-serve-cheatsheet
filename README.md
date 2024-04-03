@@ -1,7 +1,7 @@
 # sky-serve-cheatsheet
 A simple Cheat Sheet for Sky Serve!
 
-```markdown
+```
 | Command                      | Description                                                  | Example                                                |
 |------------------------------|--------------------------------------------------------------|--------------------------------------------------------|
 | `sky serve status`           | Show statuses of SkyServe services.                          | `sky serve status sky-service-d178`                    |
