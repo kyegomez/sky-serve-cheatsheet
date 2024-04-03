@@ -9,7 +9,7 @@ This tutorial aims to equip you with a solid understanding of SkyServe CLI's cap
 
 | Command                                         | Description                                               | Purpose                                                 | Metadata                |
 |-------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------|-------------------------|
-| `sky serve up`                                  | Launch a SkyServe service.                                | To deploy a new service or application.                 | Initial deployment.     |
+| `sky serve up main.yaml`                                  | Launch a SkyServe service.                                | To deploy a new service or application.                 | Initial deployment.     |
 | `sky serve update`                              | Update a SkyServe service.                                | To apply updates or changes to an existing service.     | Updates and maintenance.|
 | `sky serve status <service-name>`               | Show detailed info about the service.                     | To check the current status and health of a service.    | Monitoring.             |
 | `sky serve down <service-name>`                 | Teardown the specified service.                           | To remove and clean up resources of a service.          | Cleanup.                |
